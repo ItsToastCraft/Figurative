@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 22,
+      "max_inclusive": 34
+    },
+    "description": "§f§7An updated version of §9Figura§7 0.1.4/0.1.5 by §6ToastTextures§f"
+  }
+}
